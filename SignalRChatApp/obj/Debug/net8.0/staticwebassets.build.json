@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "Hash": "v7JyjbVTtGiosNKpdXsbj+isP4Oq+7BH2iBLab8VryQ=",
+  "Source": "SignalRChatApp",
+  "BasePath": "_content/SignalRChatApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "SignalRChatApp\\wwwroot",
+      "Source": "SignalRChatApp",
+      "ContentRoot": "E:\\DSA\\Trianing\\SignalRChatApp\\SignalRChatApp\\wwwroot\\",
+      "BasePath": "_content/SignalRChatApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\DSA\\Trianing\\SignalRChatApp\\SignalRChatApp\\wwwroot\\index.html",
+      "SourceId": "SignalRChatApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\DSA\\Trianing\\SignalRChatApp\\SignalRChatApp\\wwwroot\\",
+      "BasePath": "_content/SignalRChatApp",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "z05dybulkj",
+      "Integrity": "s+hkBuAWP30IjEerm4XjhVOre48Ce6wHkD5J+6Ouflc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "E:\\DSA\\Trianing\\SignalRChatApp\\SignalRChatApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2225"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s+hkBuAWP30IjEerm4XjhVOre48Ce6wHkD5J+6Ouflc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 17:01:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-s+hkBuAWP30IjEerm4XjhVOre48Ce6wHkD5J+6Ouflc="
+        }
+      ]
+    },
+    {
+      "Route": "index.z05dybulkj.html",
+      "AssetFile": "E:\\DSA\\Trianing\\SignalRChatApp\\SignalRChatApp\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2225"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"s+hkBuAWP30IjEerm4XjhVOre48Ce6wHkD5J+6Ouflc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 19 Jun 2025 17:01:38 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "z05dybulkj"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-s+hkBuAWP30IjEerm4XjhVOre48Ce6wHkD5J+6Ouflc="
+        }
+      ]
+    }
+  ]
+}
