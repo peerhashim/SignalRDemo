@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "v7JyjbVTtGiosNKpdXsbj+isP4Oq+7BH2iBLab8VryQ=",
+  "Hash": "sK4SK83GntDHCEJBUyU9qgCFtwLUMHOtA7zYqQ6ufi0=",
   "Source": "SignalRChatApp",
   "BasePath": "_content/SignalRChatApp",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "SignalRChatApp\\wwwroot",
       "Source": "SignalRChatApp",
-      "ContentRoot": "E:\\DSA\\Trianing\\SignalRChatApp\\SignalRChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asus\\Source\\Repos\\SignalRDemo\\SignalRChatApp\\wwwroot\\",
       "BasePath": "_content/SignalRChatApp",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "E:\\DSA\\Trianing\\SignalRChatApp\\SignalRChatApp\\wwwroot\\index.html",
+      "Identity": "C:\\Users\\asus\\Source\\Repos\\SignalRDemo\\SignalRChatApp\\wwwroot\\index.html",
       "SourceId": "SignalRChatApp",
       "SourceType": "Discovered",
-      "ContentRoot": "E:\\DSA\\Trianing\\SignalRChatApp\\SignalRChatApp\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\asus\\Source\\Repos\\SignalRDemo\\SignalRChatApp\\wwwroot\\",
       "BasePath": "_content/SignalRChatApp",
       "RelativePath": "index#[.{fingerprint}]?.html",
       "AssetKind": "All",
@@ -41,7 +41,7 @@
   "Endpoints": [
     {
       "Route": "index.html",
-      "AssetFile": "E:\\DSA\\Trianing\\SignalRChatApp\\SignalRChatApp\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\asus\\Source\\Repos\\SignalRDemo\\SignalRChatApp\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -62,7 +62,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Jun 2025 17:01:38 GMT"
+          "Value": "Thu, 19 Jun 2025 17:24:27 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -78,7 +78,7 @@
     },
     {
       "Route": "index.z05dybulkj.html",
-      "AssetFile": "E:\\DSA\\Trianing\\SignalRChatApp\\SignalRChatApp\\wwwroot\\index.html",
+      "AssetFile": "C:\\Users\\asus\\Source\\Repos\\SignalRDemo\\SignalRChatApp\\wwwroot\\index.html",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -99,7 +99,7 @@
         },
         {
           "Name": "Last-Modified",
-          "Value": "Thu, 19 Jun 2025 17:01:38 GMT"
+          "Value": "Thu, 19 Jun 2025 17:24:27 GMT"
         },
         {
           "Name": "Cache-Control",
