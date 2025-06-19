@@ -741,11 +741,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\DSA\\Trianing\\SignalRChatApp\\SignalRChatApp\\SignalRChatApp.csproj",
+      "projectUniqueName": "C:\\Users\\asus\\Source\\Repos\\SignalRDemo\\SignalRChatApp\\SignalRChatApp.csproj",
       "projectName": "SignalRChatApp",
-      "projectPath": "E:\\DSA\\Trianing\\SignalRChatApp\\SignalRChatApp\\SignalRChatApp.csproj",
+      "projectPath": "C:\\Users\\asus\\Source\\Repos\\SignalRDemo\\SignalRChatApp\\SignalRChatApp.csproj",
       "packagesPath": "C:\\Users\\asus\\.nuget\\packages\\",
-      "outputPath": "E:\\DSA\\Trianing\\SignalRChatApp\\SignalRChatApp\\obj\\",
+      "outputPath": "C:\\Users\\asus\\Source\\Repos\\SignalRDemo\\SignalRChatApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

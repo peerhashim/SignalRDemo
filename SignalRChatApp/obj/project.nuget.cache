@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hxiNwrwF5NA=",
+  "dgSpecHash": "n2s71ZQJ1lU=",
   "success": true,
-  "projectFilePath": "E:\\DSA\\Trianing\\SignalRChatApp\\SignalRChatApp\\SignalRChatApp.csproj",
+  "projectFilePath": "C:\\Users\\asus\\Source\\Repos\\SignalRDemo\\SignalRChatApp\\SignalRChatApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.connections.abstractions\\7.0.0\\microsoft.aspnetcore.connections.abstractions.7.0.0.nupkg.sha512",
     "C:\\Users\\asus\\.nuget\\packages\\microsoft.aspnetcore.signalr.common\\7.0.0\\microsoft.aspnetcore.signalr.common.7.0.0.nupkg.sha512",
